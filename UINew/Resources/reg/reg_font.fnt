@@ -1,0 +1,21 @@
+info face="»ª¿µÔ²ÌåW5(P)" size=20 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=2,1,2,1 spacing=1,1 outline=0
+common lineHeight=20 base=17 scaleW=200 scaleH=50 pages=1 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
+page id=0 file="reg_font.png"
+chars count=17
+char id=58   x=182   y=0     width=6     height=13    xoffset=-1    yoffset=6     xadvance=5     page=0  chnl=15
+char id=21035 x=160   y=0     width=21    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=21517 x=132   y=23    width=20    height=22    xoffset=0     yoffset=-2    xadvance=20    page=0  chnl=15
+char id=22312 x=22    y=0     width=22    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=22320 x=153   y=23    width=22    height=21    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=23494 x=0     y=24    width=21    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=24615 x=45    y=0     width=22    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=25143 x=22    y=23    width=21    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=25152 x=68    y=0     width=22    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=26165 x=44    y=23    width=21    height=22    xoffset=0     yoffset=-1    xadvance=20    page=0  chnl=15
+char id=29992 x=66    y=23    width=21    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=30721 x=88    y=23    width=21    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=30830 x=0     y=0     width=21    height=23    xoffset=-1    yoffset=-2    xadvance=20    page=0  chnl=15
+char id=31216 x=91    y=0     width=22    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=31665 x=114   y=0     width=22    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=35748 x=137   y=0     width=22    height=22    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
+char id=37038 x=110   y=23    width=21    height=22    xoffset=0     yoffset=-1    xadvance=20    page=0  chnl=15

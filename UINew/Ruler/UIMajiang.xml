@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuidesProject>
+    <Project>UIMajiang_Player</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Fraction</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Login</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Menu</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_UserInfo</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Compartment</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Reg</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_MessageBox</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Options</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_SingCard</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Sociality</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_CreateCompartment</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_EnterCompartment</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Cortana</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_AddFriend</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_RoomEnded</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Mall</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_MallBox</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_InfoEditItem</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_test</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Musume</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Share</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_SingCardTips</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_Competition</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_CompetitionMenu</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_MusemeTips</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_TopControl</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>UIMajiang_MjLife</Project>
+    <GuidesList />
+  </GuidesProject>
+</ArrayOfGuidesProject>
